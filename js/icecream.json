@@ -1,0 +1,23 @@
+{
+    "companyName": "Gorlock's Pizzareia", 
+    "headOffice": "Korea", 
+    "established": "2029", 
+    "active": true, 
+    "topFlavors": [{
+        "name": "Cheese",
+        "calories": 3000,
+        "type": "Pizza",
+        "Ingredients": ["Dairy dawg", "cow", "milk"],
+        "image": "./images/chocolate-mint.svg"
+    }, {
+        "name": "Pepporni" ,
+        "calories": 3050 ,
+        "type": "Pizza",
+        "Ingredients" : []
+    }],
+    "name": "Gorlock", 
+    "calories": 300000, 
+    "type": "Diabeto", 
+    "ingredients": "Cheese, Gorlock Secret Sauce, Tomato Sauce, ", 
+    "image": ""
+}

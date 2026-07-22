@@ -17,7 +17,7 @@ const section = document.querySelector("section");
 // STEP 8: Output the iScream JSON object to the console
 
 // STEP 9a: Invoke the populateHeader function here, then build it below
-
+    
 // STEP 10a: Invoke the showTopFlavors function here, then build it below
 
 // STEP 3b: Call the populate() function
