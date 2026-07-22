@@ -15,5 +15,11 @@
         "type": "Pizza",
         "Ingredients" : ["meat", "beef"],
         "image": "https://kizzatronreal.github.io/26S-JavaScript-01-Week11/images/peach-mango.svg"
+    }, {
+        "name": "Johnson",
+        "calories": 3000,
+        "type": "Pizza",
+        "Ingredients": ["hello", "idk"],
+        "image": "https://kizzatronreal.github.io/26S-JavaScript-01-Week11/images/peach-mango.svg"
     }]
 }
