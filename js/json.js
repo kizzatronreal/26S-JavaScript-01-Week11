@@ -42,7 +42,7 @@ function populateHeader(json){
 }
 function showTopFlavors(json){
     /* STEP 10b: Assemble the showTopFlavors() function */
-    let topFlavors = json.topFlavors;
+    let topFlavors = json.topFlavours;
 // STEP 10c: Bind the JSON topFlavors object to a var
     for (let i = 0; i < topFlavors.length; i++) {
         console.log(topFlavors[i])
@@ -58,7 +58,7 @@ function showTopFlavors(json){
         p2.textContent = "Type: " + topFlavors[i].type;
         img.setAttribute("src", topFlavors[i].image);
 
-        let ingredients = topFlavors[i].Ingredients;
+        let ingredients = topFlavors[i].ingredients;
         for (let j = 0; j < ingredients.length; j++){
             let listItem = document.createElement("li");
             listItem.textContent = ingredients[j];
